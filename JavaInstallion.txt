@@ -1,5 +1,5 @@
  
-  JAVA - Just Another Virtual Accelerator
+  
   
   1) How install Java ?
   A) check CMD First JAVA install or Not, got to oracle Java Download --> click on Windows --> Select the MSI(MicroSoft Installer ).  
