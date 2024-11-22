@@ -1,0 +1,14 @@
+ 
+  JAVA - Just Another Virtual Accelerator
+  
+  1) How install Java ?
+  A) check CMD First JAVA install or Not, got to oracle Java Download --> click on Windows --> Select the MSI(MicroSoft Installer ).  
+  
+  2)How to Setup Java Enviroment Varables in Java.
+  A) Step 1)Go to File Manger - C Drive -Program Files - Choose JAVA - Click the JDk v(Vesion) - choose the Path.
+     Step 2) Search Enviorment Varables in Start -> Select the Enviorment Varables -> Check the  java path is there in System Varabiles by click the Path.
+	         -> Click New in User Varabiles in Top -> Give Varable Name as JAVA_HOME  -> Path is Path which Copy form C Drive. -> Ok.
+			 
+  3) How to Hello World Programm After Installtion ?
+  A) Step 1) Create any File by using .java Extension -> open in  NotePad -> Write the Code -> Save -> Copy the Path of that File.
+     Step 2) open CMD -> CD (Paste the Path of file) -> then Run javaC (File Name) -> new File is Created by .class Extenion. -> java (File Name)
